@@ -34,7 +34,7 @@
           <p>For those that know me, you can follow my progress on GitHub. Thanks for visiting!</p>
         </div>
         <div class="six columns">
-          <img src="/images/tnguyen.jpg" alt="Thomas Nguyen" class="center-img">
+          <img src="images/tnguyen.jpg" alt="Thomas Nguyen" class="center-img">
         </div>
       </div><!-- ./row -->
     </div><!-- ./container -->
