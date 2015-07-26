@@ -1,0 +1,17 @@
+.hero{
+	padding-top: 4em;
+	padding-bottom: 2em;
+	margin-bottom: 2em;
+}
+.center{
+	text-align: center;
+}
+img.center-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h5{
+	font-weight: 400;
+	color: grey;
+}
