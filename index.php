@@ -3,9 +3,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Skeleton: Responsive CSS Boilerplate</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <title>Thomas Nguyen</title>
+    <meta name="description" content="Thomas Nguyen Personal Website">
+    <meta name="author" content="Thomas Nguyen">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/Skeleton/css/normalize.css">
