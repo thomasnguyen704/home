@@ -1,48 +1,54 @@
 <!DOCTYPE html>
-
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Thomas Nguyen</title>
-    <meta name="description" content="Thomas Nguyen Personal Website">
-    <meta name="author" content="Thomas Nguyen">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/Skeleton/css/normalize.css">
-    <link rel="stylesheet" href="css/Skeleton/css/skeleton.css">
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/animate.css">
-  </head>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Thomas Nguyen</title>
 
-  <body>
-    <div class="hero center">
-      <div class="container">
-        <h1 class="fadeInDown">Thomas Nguyen</h1>
-        <p>Using Skeleton and Animiate CSS</p>
-      </div>
-    </div>
-    <div class="container">
-      <h5>Hello Everybody!</h5>
-      <div class="row">
-        <div class="six columns">
-          <p>My name is Thomas Nguyen. As you may already know, you are on my personal website. I am trying something new with this rebuild of my site.</p>
-          <ul>
-            <li>Moving from Bootstrap to Skeleton</li>
-            <li>Incorporating Animiate CSS</li>
-            <li>Other jQuery and JavaScript stuff</li>
-          </ul>
-          <p>For those that know me, you can follow my progress on GitHub. Thanks for visiting!</p>
-        </div>
-        <div class="six columns">
-          <img src="images/tnguyen.jpg" alt="Thomas Nguyen" class="center-img">
-        </div>
-      </div><!-- ./row -->
-    </div><!-- ./container -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+        <link href="ytplayer/css/jquery.mb.YTPlayer.min.css" media="all" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/styles.css">
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-    <script>
-      $('h1').addClass('animated bounceOutLeft');
-    </script>
-  </body>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+        <script src="ytplayer/jquery.mb.YTPlayer.min.js"></script>
+    </head>
+    <body>
+        <div id="bgndVideo" class="player" data-property="{videoURL:'https://youtu.be/aYcZ5FvcQAA',containment:'body',autoPlay:true, mute:true, startAt:0, opacity:1}"></div>
+        
+        <div class="container">
+            <div class="promo">
+                <div class="row">
+                    <div class="col-sm-5">
+                        <div class="well">
+                            <h2>The question, <span class="text-red">"What is it like being an Asian American?"</span> I try to answer this question by reflecting on my life and those lives around me.</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/aYcZ5FvcQAA" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u2VGQFZqiYQ" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w90t-ZLA3AQ" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            $(function(){
+                $(".player").YTPlayer();
+            });
+        </script>
+    </body>
 </html>
