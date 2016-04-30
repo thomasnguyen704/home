@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-sm-5">
                         <div class="well">
-                            <h2><span class="text-red">"What is it like being an Asian American?"</span> I try to answer this question by reflecting on my life and those lives around me.</h2>
+                            <h1><span class="text-red">"What is it like being an Asian American?"</span> I try to answer this question by reflecting on my life and those lives around me.</h1>
                         </div>
                     </div>
                 </div>
