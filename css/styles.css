@@ -2,13 +2,9 @@
 	font-weight: 100 !important;
 	border-radius: 0 !important;
 }
-body {
-	background: url(sweettexture.jpg);
-}
 .text-red {
 	color: crimson;
 }
-
 .well {
    background-color: rgba(245, 245, 245, 0.8);
    border: none;
