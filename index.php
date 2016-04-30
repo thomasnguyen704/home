@@ -15,8 +15,15 @@
         <script src="ytplayer/jquery.mb.YTPlayer.min.js"></script>
     </head>
     <body>
-        <div id="bgndVideo" class="player" data-property="{videoURL:'https://youtu.be/aYcZ5FvcQAA',containment:'body',autoPlay:true, mute:true, startAt:0, opacity:1, stopMovieOnBlur:false, showControls:false }"></div>
-        
+        <div id="bgndVideo" class="player" data-property="{
+                videoURL:'https://youtu.be/aYcZ5FvcQAA',
+                containment:'body',
+                autoPlay:true, 
+                mute:true, 
+                stopMovieOnBlur:false, 
+                showControls:false 
+            }">
+        </div>
         <div class="container">
             <div class="promo">
                 <div class="row">
