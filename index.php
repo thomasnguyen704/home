@@ -34,17 +34,17 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 section">
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cCJS80HcLKg" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 section">
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u2VGQFZqiYQ" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-4 section">
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w90t-ZLA3AQ" frameborder="0" allowfullscreen></iframe>
                         </div>
