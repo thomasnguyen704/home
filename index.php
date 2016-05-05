@@ -24,12 +24,20 @@
                 showControls:false 
             }">
         </div>
+        <nav>
+            <ul class="nav nav-pills container">
+                <li role="presentation"><a href="#">Home</a></li>
+                <li role="presentation"><a href="#">About</a></li>
+                <li role="presentation"><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+
         <div class="container">
             <div class="promo">
                 <div class="row">
                     <div class="col-sm-5">
                         <div class="well">
-                            <h1><span class="text-red">"What is it like to be an Asian American?"</span> I try to answer this question by reflecting on my life and the lives around me.</h1>
+                            <h2><span class="text-loud">"What is it like to be an Asian American?"</span> I try to answer this question by reflecting on my life and the lives around me.</h2>
                         </div>
                     </div>
                 </div>

@@ -2,12 +2,20 @@
 	font-weight: 100 !important;
 	border-radius: 0 !important;
 }
-.text-red {
-	color: crimson;
+nav {
+	background-color: rgba(0, 0, 0, 0.2);
+}
+nav a {
+	color: white;
+}
+.text-loud {
+	font-weight: 800 !important;
 }
 .well {
-   background-color: rgba(245, 245, 245, 0.8);
-   border: none;
+	/*background-color: rgba(245, 245, 245, 0.8);*/
+	background-color: rgba(220, 20, 60, .7);
+	border: none;
+	color: white;
 }
 .promo {
 	margin-top: 20%;
