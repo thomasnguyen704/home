@@ -16,7 +16,7 @@
     </head>
     <body>
         <div id="bgndVideo" class="player" data-property="{
-                videoURL:'https://youtu.be/aYcZ5FvcQAA',
+                videoURL:'https://youtu.be/bkZcKpUrbU0',
                 containment:'body',
                 autoPlay:true, 
                 mute:true, 
