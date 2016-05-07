@@ -21,7 +21,8 @@
                 autoPlay:true, 
                 mute:true, 
                 stopMovieOnBlur:false, 
-                showControls:false 
+                showControls:false,
+                quality: 'hd720'
             }">
         </div>
         <nav>
