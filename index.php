@@ -23,7 +23,7 @@
                 mute:true, 
                 stopMovieOnBlur:false, 
                 showControls:false,
-                quality:'large'
+                quality:'medium'
             }">
         </div>
         <nav>
