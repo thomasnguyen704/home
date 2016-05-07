@@ -28,9 +28,7 @@
         </div>
         <nav>
             <ul class="nav nav-pills container">
-                <li role="presentation"><a href="http://thomasnguyen.me/">Home</a></li>
-                <li role="presentation"><a href="#">About</a></li>
-                <li role="presentation"><a href="https://www.linkedin.com/in/tomnguyen704" target="_blank">Contact</a></li>
+                <li role="presentation" class="pull-right"><a href="https://www.linkedin.com/in/tomnguyen704" target="_blank">Contact</a></li>
             </ul>
         </nav>
 
