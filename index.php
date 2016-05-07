@@ -22,7 +22,7 @@
                 mute:true, 
                 stopMovieOnBlur:false, 
                 showControls:false,
-                quality: 'hd720'
+                quality:'small'
             }">
         </div>
         <nav>
