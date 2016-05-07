@@ -23,3 +23,9 @@ nav a {
 .section {
 	margin-bottom: 25px;
 }
+
+@media screen and (max-width:768px) {
+	html{
+		background: url(images/bgposter.jpg) no-repeat center center;
+	}
+}
