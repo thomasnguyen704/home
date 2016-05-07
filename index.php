@@ -36,24 +36,24 @@
         <div class="container">
             <div class="promo">
                 <div class="row">
-                    <div class="col-sm-5">
+                    <div class="col-sm-7 col-md-4">
                         <div class="well">
                             <h2><span class="text-loud">"What is it like to be an Asian American?"</span> I try to answer this question by reflecting on my life and the lives around me.</h2>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-4 section">
+                    <div class="col-sm-7 col-md-4 section">
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cCJS80HcLKg" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
-                    <div class="col-sm-4 section">
+                    <div class="col-sm-7 col-md-4 section">
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u2VGQFZqiYQ" frameborder="0" allowfullscreen></iframe>
                         </div>
                     </div>
-                    <div class="col-sm-4 section">
+                    <div class="col-sm-7 col-md-4 section">
                         <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w90t-ZLA3AQ" frameborder="0" allowfullscreen></iframe>
                         </div>

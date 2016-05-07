@@ -2,6 +2,9 @@
 	font-weight: 100 !important;
 	border-radius: 0 !important;
 }
+body {
+	padding-bottom: 5%;
+}
 nav {
 	background-color: rgba(0, 0, 0, 0.2);
 }
@@ -18,7 +21,7 @@ nav a {
 	color: white;
 }
 .promo {
-	margin-top: 20%;
+	margin-top: 12%;
 }
 .section {
 	margin-bottom: 25px;
