@@ -23,7 +23,8 @@
                 mute:true, 
                 stopMovieOnBlur:false, 
                 showControls:false,
-                quality:'high'
+                quality:'high',
+                realfullscreen:true
             }">
         </div>
         <nav>
