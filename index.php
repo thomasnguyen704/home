@@ -23,7 +23,7 @@
                 mute:true, 
                 stopMovieOnBlur:false, 
                 showControls:false,
-                quality:'high',
+                quality:'hd720',
                 realfullscreen:true
             }">
         </div>
