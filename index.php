@@ -18,11 +18,12 @@
         <div id="bgndVideo" class="player" data-property="{
                 videoURL:'https://youtu.be/bkZcKpUrbU0',
                 containment:'body',
-                autoPlay:true, 
+                autoPlay:true,
+                gaTrack:true,
                 mute:true, 
                 stopMovieOnBlur:false, 
                 showControls:false,
-                quality:'medium'
+                quality:'large'
             }">
         </div>
         <nav>
