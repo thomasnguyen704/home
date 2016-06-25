@@ -31,7 +31,7 @@
 				<div class="row">
 					<div class="col-md-6">
 						<h1>Any Bank Dashboard</h1>
-						<p>The analytics provided is for demonstration purposes and was developed using fictitous data. This is a demostration of an analytics applicatoin distributed on a web browser platform. Results can be served from a database or embeded as an array. Click on the legend or graph to interact with the results. </p>
+						<p>The analytics dashboard provided is for demonstration purposes. The visualizations provided were developed using fictitious data. Results can be streamed from a database or embeded as an array. Click on the legends or graphs to interact with the results.</p>
 						<a id="click-start" class="btn btn-danger" href="#start-dashboard" role="button">Go To Dashboard</a>
 					</div>
 					<div class="col-md-6">
